@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+html, body{
+    height: 100%;
+}
+
+
+
+/* Color Generators Start */
+.color-palet {
+    width: 230px;
+    height: 150px;
+    background: #b0e0bc;
+}
+
+.color-items {
+    height: 100%;
+    width: 100%;
+}
+
+.color-generator-area {
+    height: 100%;
+}
+.single-item {
+    margin: 40px 0;
+}
+.color-code {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.color-code::selection{
+    background-color: yellow;
+    color: black;
+}
+.second-palet{
+    background-color: #944588;
+}
+.third-palet{
+    background-color: #332345;
+}
+
+.color-generator-area {
+    background: black;
+}
+
+.color-generator-area h2 {
+    font-family: 'Orbitron', sans-serif;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.generate_btn {
+    background-color: #17D4FE;
+    color: black;
+}
+/* Color Generators End */
+
